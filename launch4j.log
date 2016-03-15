@@ -1,0 +1,319 @@
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Exit code:	0
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Exit code:	259
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Exit code:	259
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Exit code:	259
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Exit code:	259
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Exit code:	0
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Exit code:	259
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Exit code:	259
+
+
+Version:	3.8
+CmdLine:	D:\project-asteroids\game.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\project-asteroids\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_73
+Check launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe (OK)
+Match:		1.8.0_73
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_71
+Ignore:		1.8.0_71
+Runtime used:	1.8.0_73 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_73\bin\javaw.exe
+Launcher args:	-jar "D:\project-asteroids\game.exe"
+Args length:	36/32768 chars
+Exit code:	0
